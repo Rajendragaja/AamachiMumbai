@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "One Rupee Clinic",
+        "Facility" : "Emergency Medical Room",
+        "Landmark" : "Platform No. 1",
+        "Operating Hours" : "24Hrs"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84323394298553,
+          19.0189364631286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "One Rupee Clinic",
+        "Facility" : "Emergency Medical Room",
+        "Landmark" : "Opposite to Kurla Bus Depot",
+        "Operating Hours" : "24Hrs",
+        "Contact" : "+918090636166"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8811067342758,
+          19.0653323974751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "One Rupee Clinic",
+        "Facility" : "Emergency Medical Room",
+        "Landmark" : "Opposite to Samrat hotel",
+        "Operating Hours" : "24Hrs"
+       
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90766596794128,
+          19.08500345908127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties":{
+        "name" : "One Rupee Clinic",
+        "Facility" : "Emergency Medical Room",
+        "Landmark" : "Platform No. 1",
+        "Operating Hours" : "24Hrs"
+      
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95651704072952,
+          19.172181976104167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "One Rupee Clinic",
+        "Facility" : "Emergency Medical Room",
+        "Landmark" : "Wadala West",
+        "Operating Hours" : "24Hrs"
+        
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85886317491531,
+          19.016311900070697
+        ]
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": 
+      {
+        "name" : "One Rupee Clinic",
+        "Facility" : "Emergency Medical Room",
+        "Landmark" : "Opposite to KTM showroom",
+        "Operating Hours" : "24Hrs"
+        
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99998223781586,
+          19.064315826848862
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1968 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatrapati shivaji maharaj terminus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83580422401427,
+          18.940630613111125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83817261457443,
+          18.952135429690557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandhurst Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83956199884415,
+          18.960859281076676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dockyard Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84418880939484,
+          18.966158309695203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reay Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84442752599716,
+          18.9767634709292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotton Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84380793571472,
+          18.98699258867673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sewri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8543409705162,
+          18.998240595545482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85869419574738,
+          19.01594927602301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guru Tegh Bahadur Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86343097686768,
+          19.03718046842098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andheri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84678786993027,
+          19.119254932993474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chunna Bhatti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86909580230713,
+          19.052149451904924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87924528121948,
+          19.065048468151996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilak Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89100408554077,
+          19.065464221638404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chembur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90114283561707,
+          19.0626249087838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govandi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91584134101868,
+          19.054877393543347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankhurd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93178170919418,
+          19.048085344140098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vashi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99895226955414,
+          19.06320545081304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanpada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00947725772858,
+          19.065882509154857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churchgate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82738745212555,
+          18.933884641891602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marine line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82381743192673,
+          18.9456131712697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charni Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81812578439713,
+          18.951988294815997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81593441963196,
+          18.963294470717347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81885266304016,
+          18.970731725553303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahalaxmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.824045419693,
+          18.982226856705317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Parel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83057928085327,
+          18.99621930737767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elphistone Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83581495285034,
+          19.00736271610583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadar(Western)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84273773431778,
+          19.01906832414066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matunga Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84678518772125,
+          19.028082804884956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84060269594193,
+          19.05512331172843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khar Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84014940261841,
+          19.06930482191746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santacruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8416782617569,
+          19.081485146897776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vile Parle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84400641918182,
+          19.09991236444039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jogeshwari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84892290830612,
+          19.135739442017194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ram Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85027205944061,
+          19.151525522989502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goregaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84955322742462,
+          19.164969106667723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84884244203568,
+          19.18679422602955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandivali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85198599100113,
+          19.204376353465907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borivali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85688370466232,
+          19.228741502295176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahisar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85935938358307,
+          19.249608569681122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mira Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85596370697021,
+          19.281564984359676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhayandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85258412361144,
+          19.310796566739757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naigaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84663766622543,
+          19.350581295375466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vasai Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8313946723938,
+          19.383474388187654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nalasopara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8187158703804,
+          19.41818977655754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81204253435135,
+          19.454205289495548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaitarna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85001188516617,
+          19.518739520880505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saphale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82062828540802,
+          19.577827365406204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kevla Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79110252857208,
+          19.6244211378929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palghar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.77188986539839,
+          19.698930442841544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umroli Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.76064872741699,
+          19.75569780621368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boisar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.76162773370743,
+          19.798800143628927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dahanu Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.74374008178711,
+          19.991145183192103
+        ]
+      }
+    },
+    {
+"type": "Feature",
+      "properties": {
+        "name" : "Vangaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7633036,
+          19.8826834
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Apta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15272331237793,
+          18.864158640693912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rasayani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15181,
+          18.8940185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somathane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14500659704208,
+          18.953282062543234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0867614,
+          18.8200722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamrapur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0793118,
+          18.7839371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08671951293945,
+          18.7355576625448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagothane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14069360494612,
+          18.54081718878853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07954,
+          18.6413023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12310367822647,
+          18.44695492773102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalamboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1143289,
+          19.034252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navade Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1031828,
+          19.0533322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taloja Panchanand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08832079172133,
+          19.078357132241436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilaje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08037340641022,
+          19.154639484872305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dativli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05906593799591,
+          19.18715647581279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Kopar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07859241962431,
+          19.21327435708017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhiwandi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04624766111374,
+          19.26860441003304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98397213220596,
+          19.298314228788463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9231584072113,
+          19.334206923785743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juchandra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87756085395812,
+          19.35695091225021
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Chembur (Monorail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89758354425429,
+          19.06121283955562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VNP & RC Marg Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89428174495697,
+          19.052641295998306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fertilizer Township"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89345562458037,
+          19.04387408318283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89555579423904,
+          19.03528135963671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mysore Colony"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89143592119217,
+          19.027710063897104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhakti Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87757694721222,
+          19.02897535133456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadala Depot(Monorail)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87394523620605,
+          19.03886150386879
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Byculla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8328001499176,
+          18.97667215933832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinchpokali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83283770084381,
+          18.987078822059726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Currey Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83292084932327,
+          18.994662112550508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8372150659561,
+          19.00916577830899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadar(Central)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84340023994446,
+          19.018051470167713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matunga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8505939245224,
+          19.0281284465811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86331564188004,
+          19.046602160869643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidya Vihar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89730995893478,
+          19.07949782514179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghatkopar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90872812271118,
+          19.08610861952736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikhroli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9282197356224,
+          19.111662129448575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanjur Marg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92832165956497,
+          19.129115426549767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhandup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93836921453476,
+          19.14339195232311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9466250538826,
+          19.15427462988879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95681208372116,
+          19.17223771183598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97548294067383,
+          19.186013993020314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9975226521492,
+          19.196012348440256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02319139242172,
+          19.19030776198011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diva Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04316580295563,
+          19.188891717217924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07765901088715,
+          19.211301285953446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dombivali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0867490172386,
+          19.21809929005201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thakurli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09702455997467,
+          19.22563400704867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13086330890654,
+          19.235343784823414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15831035375595,
+          19.244311016911173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambivli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17169189453125,
+          19.267675179250162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titvala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20276260375977,
+          19.295299187486492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khadavli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21935206651686,
+          19.356890178102955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vashind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.26758354902267,
+          19.406843957158184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asangaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.30799371004105,
+          19.439799031272045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atgaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32814246416092,
+          19.503590624522833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khardi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.394438624382,
+          19.580728499439797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name": "Kasara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.47274839878082,
+          19.647998403666595
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Vithalwadi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14921766519547,
+          19.228298301595665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulhasnagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16322952508926,
+          19.218005578791743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambernath"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18470865488052,
+          19.209994334918452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badlapur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23846012353897,
+          19.166851526284482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vangani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.30081343650818,
+          19.094204455270898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.31775695085526,
+          19.063839228000123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.31859916448592,
+          19.02656140783852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhivpuri Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.33135306835175,
+          18.9709397204073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karjat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3207556605339,
+          18.91011808206605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palasdhari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32065105438232,
+          18.884630041286727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelavali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.318760,
+          18.845596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolavli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32016825675964,
+          18.833860646375065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lowjee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.33525836467743,
+          18.809130325246088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khopoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.34510207176208,
+          18.78931754947933
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Juinagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01822662353516,
+          19.055769795939927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nerul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0182695388794,
+          19.033316304321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seawoods Darave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01944971084595,
+          19.02172327264512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belapur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03909420967102,
+          19.01890096206903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharghar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05953800678253,
+          19.02642448142099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mansarovar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08053702116013,
+          19.016844423462285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khandeshwar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09527844190598,
+          19.007456546829182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panvel Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.121218085289,
+          18.99053065698232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01787257194519,
+          19.07609093237755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopar Khairane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01143795251846,
+          19.103024764816844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghansoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00705254077911,
+          19.116416542577944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0028173327446,
+          19.13673276802305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99944043159485,
+          19.15856162497425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King's Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85780638456345,
+          19.031779741643952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahim Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84689784049988,
+          19.040661688869612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghatkopar(Metro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90805220603943,
+          19.08688932475467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jagruti Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90197432041168,
+          19.092521446249165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asalpha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89490938186646,
+          19.09639943831059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saki Naka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88796782493591,
+          19.10350631990509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marol Naka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87949204444885,
+          19.108157056107984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airport Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87417590618134,
+          19.110128827403226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chakala(J. B Nagar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86762326955795,
+          19.112032147316743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Express Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85642772912979,
+          19.115853927261337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andheri(Metro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84880489110947,
+          19.12045109721244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azad Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83764958381653,
+          19.12690313879747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D. N. Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83020377159119,
+          19.128291840642007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Versova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82137662172318,
+          19.130245633142394
+        ]
+      }
+    }
+  ]
+}
